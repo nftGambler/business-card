@@ -1,0 +1,237 @@
+p {
+  margin: 0;
+}
+
+body {
+  background-color: #23252C;
+}
+
+.Profile_image {
+  position: absolute;
+  width: 317px;
+  height: 317px;
+  left: 116px;
+  top: 44px;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.Rectangel {
+  background-color:#1A1B21;
+  position: absolute;
+  width: 317px;
+  height: 450px;
+  left: 116px;
+  top: 361px;
+}
+
+
+
+.FRONT_END {
+  position: absolute;
+width: 178.06px;
+height: 14.19px;
+left: 186px;
+top: 414px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12.8px;
+line-height: 15px;
+text-align: center;
+
+color: #F3BF99;
+
+}
+
+.Name_S {
+
+position: absolute;
+height: 25.81px;
+left: 186px;
+top: 382px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.sharo_website {
+position: absolute;
+width: 228px;
+height: 16px;
+left: 161px;
+top: 437px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+text-align: center;
+color: #F5F5F5;
+}
+
+.email-button {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  width: 115px;
+  height: 34px;
+  left: 151px;
+  top: 468px;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 13px 9px 11px;
+  gap: 8px;
+  font-family: Inter;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
+
+.email-button:hover {
+  opacity: 0.5;
+}
+.linked-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 13px 9px 11px;
+  gap: 8px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+
+  position: absolute;
+  width: 115px;
+  height: 34px;
+  left: 283px;
+  top: 468px;
+
+  background: #5093E2;
+}
+
+.linked-button:hover {
+  opacity: 0.5;
+  
+}
+
+.About_ {
+  position: absolute;
+width: 242.71px;
+height: 21px;
+left: 152px;
+top: 535px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+color: #F5F5F5;
+
+}
+
+.about_text_info {
+  position: absolute;
+  width: 247px;
+  height: 61px;
+  left: 152px;
+  top: 561px;
+
+  
+  font-family: 'Arial';
+  font-style: normal;
+  font-size: 10.24px;
+  line-height: 150%;
+  color: white;
+
+}
+
+.interests_tag {
+  position: absolute;
+width: 242.71px;
+height: 21px;
+left: 152px;
+top: 660px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+color: white;
+
+
+}
+
+.interest-info {
+  position: absolute;
+  width: 247px;
+  height: 61px;
+  left: 152px;
+  top: 690px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+ 
+  
+  
+  color: #DCDCDC;
+
+}
+
+.icon_background {
+  position: absolute;
+  width: 317px;
+  height: 64px;
+  left: 116px;
+  top: 760px;
+
+  background: #161619;
+  border-radius: 0px 0px 10px 10px;
+
+}
+
+.twitter_icon {
+  position: absolute;
+  top: 780px;
+  left: 180px;
+}
+
+.facebook_icon {
+  position: absolute;
+  top: 780px;
+  left: 230px;
+}
+
+.ig_icon {
+  position: absolute;
+  top: 780px;
+  left: 280px;
+}
+
+.github_icon {
+  position: absolute;
+  top: 780px;
+  left: 330px;
+  
+}
+
+.ALL_COMPONENTS {
+position: relative;
+align-items: center;
+left: 100px;
+  
+}
